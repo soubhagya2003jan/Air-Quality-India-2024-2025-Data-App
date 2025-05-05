@@ -22,6 +22,5 @@
 - 🎨 Visuals powered by Plotly  
 - 💻 Developed in VS Code  
 
-## 🌐 [Click Here to View Dashboard](#)  
-*(Replace `#` with your deployed app link)*
+## 🌐 [Click Here to View Dashboard](https://air-quality-india-24-25.streamlit.app/)
 
